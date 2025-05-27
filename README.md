@@ -1,4 +1,5 @@
-# Living Lab (자취연구소) 💬
+![image](https://github.com/user-attachments/assets/1ef7c69a-9057-456d-b192-0e94fccc95b0)
+# Living Lab (자취연구소) 
 2024년 멀티캠퍼스 채용연계 풀스택 개발자 부트캠프 (스프링 & 리액트)
 - 프로젝트 주제 : 1인 가구 및 자취생들을 위한 정보 공유 커뮤니티
 - 배포주소 : https://livinglab2.kro.kr:22222/ (배포 종료)
